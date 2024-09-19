@@ -1,5 +1,7 @@
 package CapturaDatosGUI;
 
+// Autor: Juan Carlos González
+
 import javax.swing.*;
 import javax.swing.border.LineBorder;
 import java.awt.*;
